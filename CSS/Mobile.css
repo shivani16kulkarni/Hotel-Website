@@ -1,0 +1,84 @@
+#navbar .logo
+{
+float: none;
+text-align: center;
+}
+
+#navbar ul, #navbar ul li{
+    float: none;
+}
+
+#navbar ul li a{
+    padding: 5px;
+    border: 1px dotted #444;
+}
+
+#showcase
+{
+    height: 700px;
+}
+#showcase h1
+{
+    line-height: 3rem;
+}
+
+.showcase-content {
+    padding: 50px;
+}
+
+#home-info
+{
+    height: 550px;
+}
+#home-info .info-img
+{
+display: none;
+
+}
+#home-info .info-content {
+float:none;
+width: 100%;
+padding: 0 30px;
+padding-top: 30px;
+}
+
+.box
+{
+    float: none;
+    width: 100%;
+    padding: 20px;
+}
+
+#about-info .info-right {
+float: none;
+width: 100%;
+margin-top: 20px;
+}
+
+#about-info .info-left {
+float: none;
+width: 100%;
+}
+#about-info h1{
+    text-align: center;
+}
+#testimonials
+{
+    height: 1000px;
+}
+
+#testimonials .testimonials {
+    margin: 30px;
+    padding: 30px;
+    border-radius: 5px;
+    opacity: 0.8;
+    margin-right: 30px;
+}
+.testimonials img {
+    float: none;
+    margin-right: 0;
+}
+
+#contact-form {
+    padding: 40px;
+}
